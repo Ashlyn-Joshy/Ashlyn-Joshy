@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashlyn-Joshy&label=Views&color=blue&style=plastic" alt="Ashlyn-Joshy" /> </p>
 
-<a href="https://linkedin.com/in/Ashlyn Joshy">
+<a href="https://www.linkedin.com/in/ashlyn-joshy-2a2296199/">
   <img align="left" alt="Ashlyn's  Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Ashlyn-Joshy">
