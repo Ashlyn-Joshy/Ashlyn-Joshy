@@ -11,9 +11,6 @@
 <a href="https://instagram.com/there_se02/">
   <img align="left" alt="Ashlyn's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://ashlyn-joshy.github.io/webpage-personal/">
-  <img align="left" alt="Ashlyn's webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br>
 <br>
