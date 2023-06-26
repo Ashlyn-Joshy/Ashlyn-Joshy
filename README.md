@@ -22,9 +22,3 @@ Email -ashlyntherese@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute
 
-<a href="https://github.com/Ashlyn-Joshy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlyn-Joshy&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Ashlyn-Joshy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashlyn-Joshy&show_icons=true&theme=light&line_height=27"/>
-</a>
